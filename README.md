@@ -1,6 +1,6 @@
 * Framework = ExpressJs, StrapiCms, NestJS, FastifyJs
-* Nodejs, Vuejs
-* Vuejs
+* Nodejs
+* Vuejs, Jquery
 * Mysql, Redis, Mongodb, Elasticsearch
 * Electron
 * Docker
