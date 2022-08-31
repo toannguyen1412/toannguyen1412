@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @toannguyen1412
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+* Framework = ExpressJs, StrapiCms
+* Nodejs, Vuejs
+* Vuejs
+* Mysql, Redis, Mongodb
+* Electron
+* Docker, Linux, Git, CI/CD, Delpoy
+* Nginx HaProxy
+---------
+* Crawler/Scraper
+* Bot Automation
