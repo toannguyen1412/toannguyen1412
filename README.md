@@ -105,8 +105,7 @@ Multi-tenant automation system for e-commerce:
 
 ## 📫 Contact
 
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: toannt1412@gmail.com
 
 ---
 
